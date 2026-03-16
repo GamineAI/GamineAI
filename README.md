@@ -45,17 +45,4 @@ Download free game assets, AI templates, and prompts to accelerate your AI game 
 
 ---
 
-## 📈 Suggested GitHub Topics
-
-ai
-ai-tools
-ai-prompts
-ai-resources
-ai-courses
-ai-games
-ai-blog
-ai-guides
-machine-learning
-artificial-intelligence
-
 Made with ❤️ by [GamineAI](https://gamineai.com) 
